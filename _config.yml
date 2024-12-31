@@ -17,10 +17,10 @@ photo: assets/files/photo.png
 address: No. 285, Dingciang Street, Kaohsiung, 80790 Taiwan
 phone: +886 7 3472000
 
-# social media links
-social:
-  github: josepho0918
-  linkedin: josepho0918
+# profile links
+profile:
+  github: https://github.com/josepho0918
+  linkedin: https://www.linkedin.com/in/josepho0918
 
 # build settings
 permalink: pretty
