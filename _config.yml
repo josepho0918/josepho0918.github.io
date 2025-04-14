@@ -8,6 +8,7 @@ theme: cvless
 # site settings
 taglong: Embedded Systems Firmware Engineer
 tagshort: Firmware Engineer
+cv: true
 
 # author settings
 author:
