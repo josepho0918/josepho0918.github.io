@@ -8,7 +8,6 @@ theme: cvless
 # site settings
 taglong: Embedded Systems Firmware Engineer
 tagshort: Firmware Engineer
-cv: true
 
 # author settings
 author:
@@ -24,6 +23,7 @@ phone: +886 7 3472000
 profile:
   github: https://github.com/josepho0918
   linkedin: https://www.linkedin.com/in/josepho0918
+  cv: true
 
 # build settings
 permalink: pretty
